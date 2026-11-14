@@ -443,12 +443,12 @@ img[alt=followers] {
     border-top-left-radius: 20px;
 }
 
-.content-card h1 {
+#content-card h1 {
     font-size: 1.25rem;
     text-align: left;
 }
 
-.content-card p {
+#content-card p {
     font-size: 0.70rem;
     color: grey;
 }
